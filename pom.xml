@@ -30,7 +30,7 @@
             <configuration>
                                         <archive>
                                                 <manifest>
-                                                        <mainClass>com.github.katjahahn.pecollector.PECollector</mainClass>
+                                                        <mainClass>delegate.Starter</mainClass>
                                                 </manifest>
                                         </archive>
                                         <descriptorRefs>
